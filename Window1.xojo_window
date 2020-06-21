@@ -52,7 +52,7 @@ Begin Window Window1
       TabIndex        =   0
       TabPanelIndex   =   0
       TabStop         =   True
-      Text            =   "Untitled"
+      Text            =   ""
       TextAlign       =   0
       TextColor       =   &c00000000
       TextFont        =   "System"
@@ -61,7 +61,6 @@ Begin Window Window1
       Top             =   40
       Transparent     =   False
       Underline       =   False
-      UnderlineOnHover=   True
       URL             =   "www.google.com"
       Visible         =   True
       Width           =   284
@@ -92,7 +91,7 @@ Begin Window Window1
       TabIndex        =   1
       TabPanelIndex   =   0
       TabStop         =   True
-      Text            =   "Untitled"
+      Text            =   ""
       TextAlign       =   0
       TextColor       =   &c00000000
       TextFont        =   "System"
@@ -101,7 +100,6 @@ Begin Window Window1
       Top             =   84
       Transparent     =   False
       Underline       =   False
-      UnderlineOnHover=   True
       URL             =   "mailto:foo@bar.com"
       Visible         =   True
       Width           =   284
@@ -132,7 +130,7 @@ Begin Window Window1
       TabIndex        =   2
       TabPanelIndex   =   0
       TabStop         =   True
-      Text            =   "Untitled"
+      Text            =   ""
       TextAlign       =   0
       TextColor       =   &c00000000
       TextFont        =   "System"
@@ -141,7 +139,6 @@ Begin Window Window1
       Top             =   131
       Transparent     =   False
       Underline       =   False
-      UnderlineOnHover=   True
       URL             =   "file:///Users/npalardy/Desktop/2020r1%20HTML%20docs/Output%20to%20folder/300px-LineJoin.png"
       Visible         =   True
       Width           =   284
@@ -172,7 +169,7 @@ Begin Window Window1
       TabIndex        =   3
       TabPanelIndex   =   0
       TabStop         =   True
-      Text            =   "Untitled"
+      Text            =   ""
       TextAlign       =   0
       TextColor       =   &c00000000
       TextFont        =   "System"
@@ -181,7 +178,6 @@ Begin Window Window1
       Top             =   177
       Transparent     =   False
       Underline       =   False
-      UnderlineOnHover=   True
       URL             =   "stuff"
       Visible         =   True
       Width           =   284

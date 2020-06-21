@@ -318,9 +318,9 @@ Inherits Label
 		#tag EndViewProperty
 		#tag ViewProperty
 			Name="Text"
-			Visible=true
+			Visible=false
 			Group="Appearance"
-			InitialValue="Untitled"
+			InitialValue=""
 			Type="String"
 			EditorType="MultiLineEditor"
 		#tag EndViewProperty
